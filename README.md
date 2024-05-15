@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/Gozaking/Gozaking/blob/6ecf3e81e218a641b98f98a8f3dc3fcda37c8637/Assets/Banner.gif" />
+</div>
+
 ### Hi there 👋
 
 <!--
